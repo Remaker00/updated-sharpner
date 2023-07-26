@@ -80,4 +80,3 @@ li.appendChild(editbtn);
 
 // Append li to list
 itemList.appendChild(li);
-}
